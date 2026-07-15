@@ -11,9 +11,8 @@ usage:
 rm -rf .config/nvim
 cd .config/nvim
 git clone https://git.jrivas.net/ale/vim-config .
-Run :MasonInstallAll and :Lazy sync
 ```
-
+Run `:MasonInstallAll` and `:Lazy sync`
 # Credits
 
 1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!

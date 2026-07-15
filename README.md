@@ -7,8 +7,8 @@
 Requires neovim=>0.11
 usage:
 ```
-# remove default nvim config
-rm -rf .config/nvim
+# remove default nvim config or back it up if you want to try this.
+rm -rf .config/nvim/*
 cd .config/nvim
 git clone https://git.jrivas.net/ale/vim-config .
 ```
